@@ -6,7 +6,7 @@
 --------------------- */
 
 .bg-image1{
-    background-image: url(/Project-Images/header_section/header_background_images.jpg);
+    background-image: url(Project-Images/header_section/header_background_images.jpg);
  background-size: cover;
  background-position: center;   
 }
@@ -148,7 +148,7 @@ span{
 }
 /* .fottar-Image  */
 .fottar-Image{
- background-image: url(/Project-Images/footer_img/background_img.jpg);
+ background-image: url(Project-Images/footer_img/background_img.jpg);
  background-size: cover;
  background-position: center;
 }
